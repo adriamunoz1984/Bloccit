@@ -28,6 +28,8 @@ gem 'turbolinks'
 
 gem 'devise'
 
+ gem 'figaro', '1.0'
+
 gem 'faker'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
